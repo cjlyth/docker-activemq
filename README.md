@@ -2,7 +2,7 @@
 
 ### Versions
 
-- [`5.9`, `5.9.1`, `latest` (*5.9/Dockerfile*)]
+- [`5.9`, `5.9.1`, `latest` (*5.9/Dockerfile*)](https://raw.githubusercontent.com/cjlyth/docker-activemq/9ab3ce1be30722151024ed5d1a8091e612d25181/5.9/Dockerfile)
 
 ### Local build
 
